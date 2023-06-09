@@ -1,4 +1,8 @@
-## A Simple Data Science project including Data Washing, Data filtering, Data Visualization and Data Analysis.
+## A Simple Data Science project including: 
+    1. Data Washing 
+    2. Data filtering
+    3. Data Visualization
+    4. Data Analysis.
 ## COMM_337 Class Project.
 
 
